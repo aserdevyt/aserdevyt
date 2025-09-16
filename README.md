@@ -1,5 +1,5 @@
 # Hey! I'm AserDev 👋
-I'm a Linux nerd 🐧, tech enthusiast 💻, and YouTube creator 🎥.
+I'm a archlinux user 🐧, love old computer 💻, and YouTube creator kinda 🎥.
 
 ## Skills
 - use of unix based operation system "Linux"
