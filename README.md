@@ -20,6 +20,6 @@ I'm a Linux nerd 🐧, tech enthusiast 💻, and YouTube creator 🎥.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserdev&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserdev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserdevyt&show_icons=true&theme=tokyonight)
 
 
