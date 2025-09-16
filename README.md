@@ -2,9 +2,9 @@
 I'm a Linux nerd 🐧, tech enthusiast 💻, and YouTube creator 🎥.
 
 ## Skills
-- Arch Linux / Hyprland wizard 🪄
+- use of unix based operation system "Linux"
 - Zsh & Bash scripting
-- FOSS fanatic
+- some C
 
 ## Connect with me
 [website](https://aserdevyt.github.io/)
@@ -18,7 +18,7 @@ I'm a Linux nerd 🐧, tech enthusiast 💻, and YouTube creator 🎥.
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Faserdevyt.github.io%2F)
 ![Visitors](https://komarev.com/ghpvc/?username=aserdevyt&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserdevyt&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserdevyt&show_icons=true&theme=tokyonight)
 
