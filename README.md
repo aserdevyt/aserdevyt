@@ -42,3 +42,5 @@
 
 ## 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aserdevyt&theme=tokyo-night)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aserdevyt&theme=tokyonight&hide_border=true)
